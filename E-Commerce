@@ -1,0 +1,238 @@
+# Query: /**\n * CodeIgniter\n *\n * An open source application development framework for PHP\n *\n * This content is released under the MIT License (MIT)\n *\n * Copyright (c) 2014 - 2017, British Columbia Institute of Technology\n *\n * Permission is hereby granted, free of charge, to any person obtaining a copy\n * of this software and associated documentation files (the "Software"), to deal\n * in the Software without restriction, including without limitation the rights\n * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n * copies of the Software, and to permit persons to whom the Software is\n * furnished to do so, subject to the following conditions:\n *\n * The above copyright notice and this permission notice shall be included in\n * all copies or substantial portions of the Software.\n *\n * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\n * THE SOFTWARE.\n *\n * @package	CodeIgniter\n * @author	EllisLab Dev Team\n * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)\n * @copyright	Copyright (c) 2014 - 2017, British Columbia Institute of Technology (http://bcit.ca/)\n * @license	http://opensource.org/licenses/MIT	MIT License\n * @link	https://codeigniter.com\n * @since	Version 1.0.0\n * @filesource\n */
+
+79 results - 79 files
+
+system/core/CodeIgniter.php:
+   2:
+
+system/core/Common.php:
+   2: 
+
+system/core/Config.php:
+   2: 
+system/core/Controller.php:
+   2: 
+
+system/core/Exceptions.php:
+   2:
+system/core/Hooks.php:
+   2: 
+
+system/core/Input.php:
+   2: 
+
+system/core/Lang.php:
+   2: 
+
+system/core/Loader.php:
+   2: 
+
+system/core/Log.php:
+   2: 
+
+system/core/Model.php:
+   2: 
+
+system/core/Output.php:
+   2: 
+
+system/core/Router.php:
+   2: 
+
+system/core/Security.php:
+   2: 
+
+system/core/URI.php:
+   2: 
+
+system/database/DB_cache.php:
+   2: 
+
+system/database/DB_driver.php:
+   2: 
+
+system/database/DB_forge.php:
+   2: 
+
+system/database/DB_query_builder.php:
+   2: 
+
+system/database/DB_result.php:
+   2: 
+
+system/database/DB_utility.php:
+   2: 
+
+system/database/DB.php:
+   2: 
+
+system/database/drivers/mysql/mysql_driver.php:
+   2: 
+
+system/database/drivers/mysql/mysql_forge.php:
+   2: 
+
+system/database/drivers/mysql/mysql_result.php:
+   2: 
+
+system/database/drivers/mysql/mysql_utility.php:
+   2: 
+
+system/helpers/array_helper.php:
+   2: 
+
+system/helpers/captcha_helper.php:
+   2: 
+
+system/helpers/cookie_helper.php:
+   2: 
+
+system/helpers/date_helper.php:
+   2: 
+
+system/helpers/directory_helper.php:
+   2: 
+
+system/helpers/download_helper.php:
+   2: 
+
+system/helpers/email_helper.php:
+   2: 
+
+system/helpers/file_helper.php:
+   2: 
+
+system/helpers/form_helper.php:
+   2: 
+
+system/helpers/html_helper.php:
+   2: 
+
+system/helpers/inflector_helper.php:
+   2: 
+
+system/helpers/language_helper.php:
+   2: 
+
+system/helpers/number_helper.php:
+   2: 
+
+system/helpers/path_helper.php:
+   2: 
+
+system/helpers/security_helper.php:
+   2: 
+
+system/helpers/smiley_helper.php:
+   2: 
+
+system/helpers/string_helper.php:
+   2: 
+
+system/helpers/text_helper.php:
+   2: 
+
+system/helpers/typography_helper.php:
+   2: 
+
+system/helpers/url_helper.php:
+   2: 
+
+system/helpers/xml_helper.php:
+   2: 
+
+system/language/english/calendar_lang.php:
+   2: 
+
+system/language/english/date_lang.php:
+   2: 
+
+system/language/english/db_lang.php:
+   2: 
+
+system/language/english/email_lang.php:
+   2: 
+
+system/language/english/form_validation_lang.php:
+   2: 
+
+system/language/english/ftp_lang.php:
+   2: 
+
+system/language/english/imglib_lang.php:
+   2: 
+
+system/language/english/number_lang.php:
+   2: 
+
+system/language/english/pagination_lang.php:
+   2: 
+
+system/language/english/profiler_lang.php:
+   2: 
+
+system/language/english/unit_test_lang.php:
+   2: 
+
+system/language/english/upload_lang.php:
+   2: 
+
+system/libraries/Calendar.php:
+   2: 
+
+system/libraries/Cart.php:
+   2: 
+
+system/libraries/Driver.php:
+   2: 
+
+system/libraries/Email.php:
+   2: 
+
+system/libraries/Encrypt.php:
+   2: 
+
+system/libraries/Form_validation.php:
+   2: 
+
+system/libraries/Ftp.php:
+   2: 
+
+system/libraries/Image_lib.php:
+   2: 
+
+system/libraries/Javascript.php:
+   2: 
+
+system/libraries/Pagination.php:
+   2: 
+
+system/libraries/Parser.php:
+   2: 
+
+system/libraries/Profiler.php:
+   2: 
+
+system/libraries/Trackback.php:
+   2: 
+
+system/libraries/Typography.php:
+   2: 
+
+system/libraries/Upload.php:
+   2: 
+
+system/libraries/User_agent.php:
+   2: 
+
+system/libraries/Xmlrpc.php:
+   2: 
+
+system/libraries/Xmlrpcs.php:
+   2: 
+
+system/libraries/Zip.php:
+   2: 
+
+system/libraries/Javascript/Jquery.php:
+   2: 
